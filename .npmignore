@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# TypeScript declaration files
+*.d.ts
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Npm
+tsconfig.json
+src/
